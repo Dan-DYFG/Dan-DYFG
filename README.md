@@ -2,12 +2,12 @@
 
 ### Sobre mim
 
-💻 Eu sou um desenvolvedor Front-End 
+💻 Eu sou um Desenvolvedor Front-End 
 
 <!-- Isso é um comentário, não irá aparecer no seu perfil
 (Abaixo você seleciona o curso que você está fazendo no momento) -->
 
-🎓 Eu estudo Analise e Desenvolvimento de Sistemas | Faculdade | Cursos
+🎓 Eu curso Analise e Desenvolvimento de Sistemas na Faculdade | Cursos de Front-End 
 
 ✒️ Eu gosto de no meu tempo livre Ler livros e Treinar;
 
@@ -34,14 +34,12 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 <!-- (Você pode adicionar novas tecnologias insira ![Nome da Tecnologia](https://img.shields.io/badge/-[Nome da tecnologia]-[Cor do fundo]?style=flat-square&logo=[Nome da tecnologia])) -->
-
 <!--
 Substitua o usuário lbguilherme pelo seu usuário no GitHub.
 -->
-
 ### GitHub Stats ⚡
 <div>
-<a href="https://github.com/lbguilherme">
+<a href="https://github.com/dan-dyfg">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lbguilherme&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lbguilherme&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
@@ -51,10 +49,6 @@ Substitua o usuário lbguilherme pelo seu usuário no GitHub.
 <a href="https://instagram.com/dan_dyfg" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/dan-dyfg" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
-
-
-
-Esse template foi feito por <a href="https://cubos.academy/" target="_blank">Cubos Academy!</a> ✨
 
 <!--
 **academy-readme-template** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
