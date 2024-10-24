@@ -2,7 +2,7 @@
 
 ### Sobre mim
 
-🎓 Estudante de Analise de Desenvolvimento de Sistemas com grande interesse em desenvolvimento de software e tecnologia. Embora ainda esteja no início da minha jornada, estou sempre em busca de aprender, crescer e contribuir para projetos que façam a diferença. 
+🎓 Estudante com grande interesse em desenvolvimento de software e tecnologia. Embora ainda esteja no início da minha jornada, estou sempre em busca de aprender, crescer e contribuir para projetos que façam a diferença. 
 
 🚀 Buscando oportunidades:
   * Estou à procura de estágios ou colaborações em projetos onde eu possa aprender mais e contribuir de forma significativa.
