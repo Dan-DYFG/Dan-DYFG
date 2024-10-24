@@ -2,13 +2,14 @@
 
 ### Sobre mim
 
-💻 Eu sou um Desenvolvedor Front-End 
+🎓 Estudante de Analise de Desenvolvimento de Sistemas com grande interesse em desenvolvimento de software e tecnologia. Embora ainda esteja no início da minha jornada, estou sempre em busca de aprender, crescer e contribuir para projetos que façam a diferença. 
 
-🎓 Eu curso Analise e Desenvolvimento de Sistemas na Faculdade | Cursos de Front-End 
+🚀 Buscando oportunidades:
+  * Estou à procura de estágios ou colaborações em projetos onde eu possa aprender mais e contribuir de forma significativa.
 
 ✒️ Eu gosto de no meu tempo livre Ler livros e Treinar;
 
-📚 Lendo: PsicoCibernética [*Maxwell Maltz*]
+📚 Lendo: PsicoCibernética [ **Maxwell Maltz** ]
 ###
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
