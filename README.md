@@ -3,7 +3,6 @@
 ### Sobre mim
 
 🎓 Estudante com grande interesse em desenvolvimento de software e tecnologia. Embora ainda esteja no início da minha jornada, estou sempre em busca de aprender, crescer e contribuir para projetos que façam a diferença. 
-<a href="https://app.rocketseat.com.br/me/rootinput-1624297563561"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=rootinput-1624297563561&type=card" width="280" alt="Daniel Batista Cardoso's Rocket ID"/></a>
 
 🚀 Buscando oportunidades:
   * Estou à procura de estágios ou colaborações em projetos onde eu possa aprender mais e contribuir de forma significativa.
